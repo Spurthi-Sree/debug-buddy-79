@@ -26,7 +26,7 @@ const LandingPage = () => {
 
         <div>
           <h1 className="text-5xl md:text-7xl font-bold font-heading text-foreground mb-4">
-            Debug<span className="text-primary"> Killer</span>
+            Debug<span className="text-primary">AI</span>
           </h1>
           <p className="text-muted-foreground text-lg md:text-xl max-w-md mx-auto">
             Your smart debugging assistant powered by AI. Paste code, get instant fixes & learn.
