@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Smart Debugging Assistant
 
-TODO: Document your project here
